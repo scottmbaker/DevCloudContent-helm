@@ -8,7 +8,7 @@ entries:
     name: wireless-ready-itm
     type: application
     urls:
-    - https://raw.githubusercontent.com/DevcloudContent/helm-import/blob/main/itm-https.tgz
+    - https://raw.githubusercontent.com/DevcloudContent/helm-import/main/itm-https.tgz
     version: "1.3.0"
   social-distancing:
   - apiVersion: v2
