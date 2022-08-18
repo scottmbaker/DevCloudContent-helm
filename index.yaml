@@ -20,4 +20,15 @@ entries:
     urls:
     - https://raw.githubusercontent.com/DevcloudContent/helm-import/main/social-distancing-retail.tgz
     version: "1.0.0"
+  sra-helm:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-08-18T18:21:28.17990248+05:30"
+    description: Smart Retail Analytics
+    digest: 970b2b2e825d83821ff8e693123b1c6f26be5595e5c978adc43404b581920d1d
+    name: sra-helm
+    type: application
+    urls:
+    - sra-helm-0.1.0.tgz
+    version: 0.1.0
 generated: "2021-05-26T14:59:11.656550034-04:00"
