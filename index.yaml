@@ -3,7 +3,7 @@ entries:
   multimodal-data-visualization:
   - apiVersion: v2
     appVersion: "3.0"
-    created: "2022-09-19T10:58:02.749303775Z"
+    created: "2022-09-19T10:58:58.74210718Z"
     description: A Helm chart for deploying multimodal data visualization service
       in k8s
     digest: ba4577017313c67c7da4b824a3c0371f6852174b6ec28beee9460187f7bbcdd9
@@ -15,7 +15,7 @@ entries:
   social-distancing-retail:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-19T10:58:02.748516179Z"
+    created: "2022-09-19T10:58:58.74125766Z"
     description: A Helm chart for Kubernetes
     digest: 12d0c3e91ecb5bb118615e2f029a7fbbe7efa757744849b45ff1b2f6dea3deb3
     name: social-distancing-retail
@@ -26,7 +26,7 @@ entries:
   wireless-ready-itm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-19T10:58:02.744959859Z"
+    created: "2022-09-19T10:58:58.736741328Z"
     description: A Helm chart for Kubernetes
     digest: b31aaa1921208dd1051ffaf5c9757dfeae8b964d510805cb091f9e80be8ff334
     name: wireless-ready-itm
@@ -34,4 +34,4 @@ entries:
     urls:
     - itm-https.tgz
     version: 0.1.0
-generated: "2022-09-19T10:58:02.739362922Z"
+generated: "2022-09-19T10:58:58.73346467Z"
