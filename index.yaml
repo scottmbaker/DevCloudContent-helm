@@ -3,7 +3,7 @@ entries:
   social-distancing-retail:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-19T10:41:42.598903291Z"
+    created: "2022-09-19T11:01:29.215013036Z"
     description: A Helm chart for Kubernetes
     digest: 12d0c3e91ecb5bb118615e2f029a7fbbe7efa757744849b45ff1b2f6dea3deb3
     name: social-distancing-retail
@@ -14,7 +14,7 @@ entries:
   test-devcloud-helm-16sep:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-19T10:41:42.600254976Z"
+    created: "2022-09-19T11:01:29.216450228Z"
     description: A Helm chart for Kubernetes
     digest: 6a6b90f421ed9d59b3720a1f125ab757bd6fa289cec79e79aedc276a8cc3b18a
     name: test-devcloud-helm-16sep
@@ -25,7 +25,7 @@ entries:
   wireless-ready-itm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-19T10:41:42.595968393Z"
+    created: "2022-09-19T11:01:29.212068302Z"
     description: A Helm chart for Kubernetes
     digest: b31aaa1921208dd1051ffaf5c9757dfeae8b964d510805cb091f9e80be8ff334
     name: wireless-ready-itm
@@ -33,4 +33,4 @@ entries:
     urls:
     - itm-https.tgz
     version: 0.1.0
-generated: "2022-09-19T10:41:42.591486508Z"
+generated: "2022-09-19T11:01:29.207042693Z"
