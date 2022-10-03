@@ -3,7 +3,7 @@ entries:
   devcloudhelmtest-oct-3:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-03T10:09:40.461760382Z"
+    created: "2022-10-03T12:08:24.50324681Z"
     description: A Helm chart for Kubernetes
     digest: 243920ea723db562627f3cacb1ba06211d113facc752d3af0a60762c45984fa7
     name: devcloudhelmtest-oct-3
@@ -14,7 +14,7 @@ entries:
   helm-qa-s20-1:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-03T10:09:40.463216318Z"
+    created: "2022-10-03T12:08:24.504511708Z"
     description: A Helm chart for Kubernetes
     digest: ace90ddaa5f002c0d355a8b9da2f9013799d3057fe9d447a3716ea265c21bde9
     name: helm-qa-s20-1
@@ -25,7 +25,7 @@ entries:
   helms20:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-03T10:09:40.464437098Z"
+    created: "2022-10-03T12:08:24.505623452Z"
     description: A Helm chart for Kubernetes
     digest: 08a410e3fec67df877c67ef007239229f965d0b3c66752366dd63f2e57a29e19
     name: helms20
@@ -36,7 +36,7 @@ entries:
   multimodal-data-visualization:
   - apiVersion: v2
     appVersion: "3.0"
-    created: "2022-10-03T10:09:40.473281248Z"
+    created: "2022-10-03T12:08:24.513467635Z"
     description: A Helm chart for deploying multimodal data visualization service
       in k8s
     digest: ba4577017313c67c7da4b824a3c0371f6852174b6ec28beee9460187f7bbcdd9
@@ -47,7 +47,7 @@ entries:
     version: "3.0"
   - apiVersion: v2
     appVersion: "3.0"
-    created: "2022-10-03T10:09:40.474063702Z"
+    created: "2022-10-03T12:08:24.514243835Z"
     description: A Helm chart for deploying multimodal data visualization service
       in k8s
     digest: ba4577017313c67c7da4b824a3c0371f6852174b6ec28beee9460187f7bbcdd9
@@ -58,7 +58,7 @@ entries:
     version: "3.0"
   - apiVersion: v2
     appVersion: "3.0"
-    created: "2022-10-03T10:09:40.474881215Z"
+    created: "2022-10-03T12:08:24.515030474Z"
     description: A Helm chart for deploying multimodal data visualization service
       in k8s
     digest: ba4577017313c67c7da4b824a3c0371f6852174b6ec28beee9460187f7bbcdd9
@@ -70,7 +70,7 @@ entries:
   social-distancing-retail:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-03T10:09:40.469678408Z"
+    created: "2022-10-03T12:08:24.510142412Z"
     description: A Helm chart for Kubernetes
     digest: 12d0c3e91ecb5bb118615e2f029a7fbbe7efa757744849b45ff1b2f6dea3deb3
     name: social-distancing-retail
@@ -81,7 +81,7 @@ entries:
   test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-03T10:09:40.472299923Z"
+    created: "2022-10-03T12:08:24.512612648Z"
     description: A Helm chart for Kubernetes
     digest: d6543c7bc1e20fa0ebfd6838a5322adf0475ddd14cba54960b9148553a9d25f8
     name: test
@@ -92,7 +92,7 @@ entries:
   test-devcloud-helm-16sep:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-03T10:09:40.471262644Z"
+    created: "2022-10-03T12:08:24.511617883Z"
     description: A Helm chart for Kubernetes
     digest: 6a6b90f421ed9d59b3720a1f125ab757bd6fa289cec79e79aedc276a8cc3b18a
     name: test-devcloud-helm-16sep
@@ -103,7 +103,7 @@ entries:
   wireless-ready-itm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-03T10:09:40.466868992Z"
+    created: "2022-10-03T12:08:24.507619356Z"
     description: A Helm chart for Kubernetes
     digest: b31aaa1921208dd1051ffaf5c9757dfeae8b964d510805cb091f9e80be8ff334
     name: wireless-ready-itm
@@ -111,4 +111,4 @@ entries:
     urls:
     - itm-https.tgz
     version: 0.1.0
-generated: "2022-10-03T10:09:40.460607763Z"
+generated: "2022-10-03T12:08:24.501403443Z"
