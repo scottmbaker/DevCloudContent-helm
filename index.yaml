@@ -3,9 +3,9 @@ entries:
   sca-evam-helm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-23T21:22:13.356120242+05:30"
+    created: "2022-10-10T09:58:20.157982654+05:30"
     description: A Helm chart for Kubernetes
-    digest: 5941bca488b2b16e2dbd4139f4491114f26736f27c88591f0a373d6990d09afd
+    digest: 49f0ca6227ad9cc54eb563b90ae4732c139be61432af950fb3eb7202173215a0
     name: sca-evam-helm
     type: application
     urls:
@@ -14,7 +14,7 @@ entries:
   social-distancing-retail:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-23T21:22:13.35730435+05:30"
+    created: "2022-10-10T09:58:20.1593612+05:30"
     description: A Helm chart for Kubernetes
     digest: 12d0c3e91ecb5bb118615e2f029a7fbbe7efa757744849b45ff1b2f6dea3deb3
     name: social-distancing-retail
@@ -25,9 +25,9 @@ entries:
   sra-evam-helm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-23T21:22:13.697407601+05:30"
+    created: "2022-10-10T09:58:20.495774295+05:30"
     description: A Helm chart for Kubernetes
-    digest: a195e4114f43f351a5765a9496da96076d904d2eebda410b7da48b5cd49135c3
+    digest: 6c2cc3af8dea0cc5a291e1f958ee209330c1f13ddab1e403944a0fde2feb1890
     name: sra-evam-helm
     type: application
     urls:
@@ -36,7 +36,7 @@ entries:
   sra-helm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-23T21:22:13.698969479+05:30"
+    created: "2022-10-10T09:58:20.497505457+05:30"
     description: A Helm chart for Kubernetes
     digest: d76e7cd663060cbea5236786818ecf89d0a9facb01bb0260b5f5b59c96ff92f9
     name: sra-helm
@@ -47,7 +47,7 @@ entries:
   wireless-ready-itm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-23T21:22:13.023517106+05:30"
+    created: "2022-10-10T09:58:19.823599618+05:30"
     description: A Helm chart for Kubernetes
     digest: b31aaa1921208dd1051ffaf5c9757dfeae8b964d510805cb091f9e80be8ff334
     name: wireless-ready-itm
@@ -55,4 +55,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/intel/DevCloudContent-helm/dev/itm-https.tgz
     version: 0.1.0
-generated: "2022-09-23T21:22:13.020990514+05:30"
+generated: "2022-10-10T09:58:19.82238807+05:30"
