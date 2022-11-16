@@ -55,4 +55,15 @@ entries:
     urls:
     - https://raw.githubusercontent.com/intel/DevCloudContent-helm/dev/itm-https.tgz
     version: 0.1.0
+  rocaas-umbrella:
+  - apiVersion: v2
+    appVersion: v0.0.0
+    created: "2022-10-03T12:12:42.163048109Z"
+    description: ROC Umbrella chart to deploy all ROC components
+    digest: 47c41e462cb757fd6d6ec36491e8add795c1491b47e40ca9a7ae480a4d63198e
+    name: rocaas-umbrella
+    type: application
+    urls:
+    - rocaas-umbrella-v3.tgz
+    version: 0.1.2
 generated: "2022-10-10T09:58:19.82238807+05:30"
