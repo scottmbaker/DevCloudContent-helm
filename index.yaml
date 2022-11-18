@@ -64,6 +64,6 @@ entries:
     name: rocaas-umbrella
     type: application
     urls:
-    - rocaas-umbrella-v3.tgz
-    version: 0.1.2
+    - rocaas-umbrella-0.1.0.tgz
+    version: 0.1.0
 generated: "2022-10-10T09:58:19.82238807+05:30"
