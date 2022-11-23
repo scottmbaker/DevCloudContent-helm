@@ -58,11 +58,7 @@ entries:
   rocaas-umbrella:
   - apiVersion: v2
     appVersion: v0.0.0
-    created: "2022-11-22T11:42:51.4326827+05:30"
-    description: ROC Umbrella chart to deploy all ROC components
-    digest: a8ba10d1ea1e346832cec845813459118bcaac0305e54f22625c824c96d25f22
-    keywords:
-    - rocaas
+    created: "2022-11-23T16:10:35.4997798+05:30"
     name: rocaas-umbrella
     type: application
     urls:
