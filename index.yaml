@@ -40,7 +40,7 @@ entries:
     name: sra-evam-helm
     type: application
     urls:
-    - sra-evam-helm-0.1.0.tgz
+    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/dev/sra-evam-helm-0.1.0.tgz
     version: 0.1.0
   sra-helm:
   - apiVersion: v2
