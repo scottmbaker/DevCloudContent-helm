@@ -1,5 +1,14 @@
 apiVersion: v1
 entries:
+  rocaas-umbrella:
+  - apiVersion: v2
+    appVersion: v0.0.0
+    created: "2022-11-23T16:10:35.4997798+05:30"
+    name: rocaas-umbrella
+    type: application
+    urls:
+    - rocaas-umbrella-0.1.4.tgz
+    version: 0.1.4
   sca-evam-helm:
   - apiVersion: v2
     appVersion: 1.16.0
@@ -25,13 +34,13 @@ entries:
   sra-evam-helm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-10T09:58:20.495774295+05:30"
+    created: "2022-11-29T12:07:32.514019225+05:30"
     description: A Helm chart for Kubernetes
-    digest: 6c2cc3af8dea0cc5a291e1f958ee209330c1f13ddab1e403944a0fde2feb1890
+    digest: 7916afb3f4fe6e924a863d60bc423d10d8d4cb62cf58fe689c3541da275183f7
     name: sra-evam-helm
     type: application
     urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/dev/sra-evam-helm-0.1.0.tgz
+    - sra-evam-helm-0.1.0.tgz
     version: 0.1.0
   sra-helm:
   - apiVersion: v2
@@ -55,13 +64,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/intel/DevCloudContent-helm/dev/itm-https.tgz
     version: 0.1.0
-  rocaas-umbrella:
-  - apiVersion: v2
-    appVersion: v0.0.0
-    created: "2022-11-23T16:10:35.4997798+05:30"
-    name: rocaas-umbrella
-    type: application
-    urls:
-    - rocaas-umbrella-0.1.4.tgz
-    version: 0.1.4
-generated: "2022-10-10T09:58:19.82238807+05:30"
+generated: "2022-11-29T12:07:32.192770296+05:30"
