@@ -9,7 +9,7 @@ entries:
     name: sca-evam-helm
     type: application
     urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/springboard/sca-evam-helm-0.1.0.tgz
+    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/sb-sandbox/sca-evam-helm-0.1.0.tgz
     version: 0.1.0
   social-distancing-retail:
   - apiVersion: v2
@@ -20,7 +20,7 @@ entries:
     name: social-distancing-retail
     type: application
     urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/springboard/social-distancing-retail.tgz
+    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/sb-sandbox/social-distancing-retail.tgz
     version: 0.1.0
   sra-evam-helm:
   - apiVersion: v2
@@ -31,7 +31,7 @@ entries:
     name: sra-evam-helm
     type: application
     urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/springboard/sra-evam-helm-0.1.0.tgz
+    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/sb-sandbox/sra-evam-helm-0.1.0.tgz
     version: 0.1.0
   sra-helm:
   - apiVersion: v2
@@ -42,7 +42,7 @@ entries:
     name: sra-helm
     type: application
     urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/springboard/sra-helm-0.1.0.tgz
+    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/sb-sandbox/sra-helm-0.1.0.tgz
     version: 0.1.0
   wireless-ready-itm:
   - apiVersion: v2
@@ -53,6 +53,6 @@ entries:
     name: wireless-ready-itm
     type: application
     urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/springboard/itm-https.tgz
+    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/sb-sandbox/itm-https.tgz
     version: 0.1.0
 generated: "2023-02-02T11:21:50.810383591+05:30"
