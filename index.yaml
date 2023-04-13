@@ -59,7 +59,7 @@ entries:
     description: Showcases a solution that detects Pallet boxes in a warehouse. It
       allows users to run inference flow for multiple models and visualize the annotated
       output.
-    digest: 5aed4ed2ea28fefd9ec6246495f54660716a0c1416eac0a41cbc8dafbf6b806d
+    digest: 58e711a6d3cc2e12392b51ba98e80abe3bfc38bf3aa3dbddeac327b9fdf70610
     keywords:
     - warehouse-ri
     name: warehouse-ri
