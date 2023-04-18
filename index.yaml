@@ -9,7 +9,7 @@ entries:
     name: sca-evam-helm
     type: application
     urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/srihari/sca_updates/sca-evam-helm-0.1.0.tgz
+    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/springboard/sca-evam-helm-0.1.0.tgz
     version: 0.1.0
   social-distancing-retail:
   - apiVersion: v2
