@@ -3,13 +3,13 @@ entries:
   sca-evam-helm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-10T09:58:20.157982654+05:30"
+    created: "2023-04-18T16:42:34.144589425+05:30"
     description: A Helm chart for Kubernetes
-    digest: 49f0ca6227ad9cc54eb563b90ae4732c139be61432af950fb3eb7202173215a0
+    digest: f3c197b7e1a631af1f4fcabcad1d2f03a5f86cf84b7eed1e6d052385b16d7d95
     name: sca-evam-helm
     type: application
     urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/springboard/sca-evam-helm-0.1.0.tgz
+    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/springboard-staging/sca-evam-helm-0.1.0.tgz
     version: 0.1.0
   social-distancing-retail:
   - apiVersion: v2
@@ -20,7 +20,7 @@ entries:
     name: social-distancing-retail
     type: application
     urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/springboard/social-distancing-retail.tgz
+    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/springboard-staging/social-distancing-retail.tgz
     version: 0.1.0
   sra-evam-helm:
   - apiVersion: v2
@@ -31,7 +31,7 @@ entries:
     name: sra-evam-helm
     type: application
     urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/springboard/sra-evam-helm-0.1.0.tgz
+    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/springboard-staging/sra-evam-helm-0.1.0.tgz
     version: 0.1.0
   sra-helm:
   - apiVersion: v2
@@ -42,7 +42,7 @@ entries:
     name: sra-helm
     type: application
     urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/springboard/sra-helm-0.1.0.tgz
+    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/springboard-staging/sra-helm-0.1.0.tgz
     version: 0.1.0
   wireless-ready-itm:
   - apiVersion: v2
@@ -53,6 +53,6 @@ entries:
     name: wireless-ready-itm
     type: application
     urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/springboard/itm-https.tgz
+    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/springboard-staging/itm-https.tgz
     version: 0.1.0
-generated: "2023-02-02T11:21:50.810383591+05:30"
+generated: "2023-04-18T16:42:34.143877599+05:30"
