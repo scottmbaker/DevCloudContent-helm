@@ -1,44 +1,91 @@
 apiVersion: v1
 entries:
+  code-server:
+  - apiVersion: v2
+    appVersion: 4.0.2
+    created: "2023-05-08T14:06:23.1328429+05:30"
+    description: A Helm chart for coder/code-server
+    digest: 3fad709010ae2efd523af31ef1eff13c3b4d901c20cf3a5711f833f5416057b4
+    name: code-server
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/sandbox/code-server.tgz
+    version: 2.1.0
+  jenkins:
+  - annotations:
+      artifacthub.io/images: |
+        - name: jenkins
+          image: jenkins/jenkins:2.319.3-jdk11
+        - name: k8s-sidecar
+          image: kiwigrid/k8s-sidecar:1.15.0
+        - name: inbound-agent
+          image: jenkins/inbound-agent:4.11.2-4
+        - name: backup
+          image: maorfr/kube-tasks:0.2.0
+      artifacthub.io/links: |
+        - name: Chart Source
+          url: https://github.com/jenkinsci/helm-charts/tree/main/charts/jenkins
+        - name: Jenkins
+          url: https://www.jenkins.io/
+    apiVersion: v2
+    appVersion: 2.319.3
+    created: "2023-05-08T14:06:23.1426424+05:30"
+    description: Jenkins - Build great things at any scale! The leading open source
+      automation server, Jenkins provides hundreds of plugins to support building,
+      deploying and automating any project.
+    digest: 185585f9293399f71e3692627bb8742422b9a1516e2fbed47488c5d1f069c542
+    home: https://jenkins.io/
+    icon: https://get.jenkins.io/art/jenkins-logo/logo.svg
+    maintainers:
+    - email: maor.friedman@redhat.com
+      name: maorfr
+    - email: mail@torstenwalter.de
+      name: torstenwalter
+    - email: garridomota@gmail.com
+      name: mogaal
+    - email: wmcdona89@gmail.com
+      name: wmcdona89
+    - email: timjacomb1@gmail.com
+      name: timja
+    name: jenkins
+    sources:
+    - https://github.com/jenkinsci/jenkins
+    - https://github.com/jenkinsci/docker-inbound-agent
+    - https://github.com/maorfr/kube-tasks
+    - https://github.com/jenkinsci/configuration-as-code-plugin
+    urls:
+    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/sandbox/jenkins.tgz
+    version: 3.11.4
+  social-distancing-retail:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-05-08T14:06:23.146551+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 6eae500ba82c636273edadb28fa1f13ce4e263c26b456971a4580bc109b480be
+    name: social-distancing-retail
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/sandbox/social-distancing-retail.tgz
+    version: 0.1.0
   wireless-ready-itm:
   - apiVersion: v2
-    appVersion: v1.1.1
-    created: "2021-06-25T10:35:53.913350712Z"
-    description: Monitor traffic intersections via IP cameras to optmize traffic flow. Detect vehicles and pedestrians, record vehicle types and counts, calculate velocity and acceleration, and more.
+    appVersion: 1.16.0
+    created: "2023-05-08T14:06:23.1355649+05:30"
+    dependencies:
+    - name: grafana
+      repository: ""
+      version: 0.1.0
+    - name: influxdb
+      repository: ""
+      version: 0.1.0
+    - name: itm
+      repository: ""
+      version: 0.1.0
+    description: A Helm chart for Kubernetes
+    digest: ecf38c922e3f02ede77e79bb9616bb5455287558a1fb4738a192f69aeb110a3a
     name: wireless-ready-itm
     type: application
     urls:
-    - https://raw.githubusercontent.com/DevcloudContent/helm-import/sandbox/itm-https.tgz
-    version: "1.3.0"
-  social-distancing:
-  - apiVersion: v2
-    appVersion: v1.1.1
-    created: "2021-06-25T10:35:53.913350712Z"
-    description: Use video analytics solutions based on Inted Distribution of OpenVino toolkit models to support retail settings for pandemic scenarios, helping to reduce public health risks.
-    name: social-distancing
-    type: application
-    urls:
-    - https://raw.githubusercontent.com/DevcloudContent/helm-import/sandbox/social-distancing-retail.tgz
-    version: "1.0.0"
-  jenkins:
-  - apiVersion: v2
-    appVersion: v1.1.1
-    created: "2021-06-25T10:35:53.913350712Z"
-    description: Use video analytics solutions based on Inted Distribution of OpenVino toolkit models to support retail settings for pandemic scenarios, helping to reduce public health risks.
-    name: social-distancing
-    type: application
-    urls:
-    - https://raw.githubusercontent.com/DevcloudContent/helm-import/sandbox/jenkins.tgz
-    version: "1.0.0"
-  code-server:
-  - apiVersion: v2
-    appVersion: v1.1.1
-    created: "2021-06-25T10:35:53.913350712Z"
-    description: Use video analytics solutions based on Inted Distribution of OpenVino toolkit models to support retail settings for pandemic scenarios, helping to reduce public health risks.
-    name: social-distancing
-    type: application
-    urls:
-    - https://raw.githubusercontent.com/DevcloudContent/helm-import/sandbox/code-server.tgz
-    version: "1.0.0"
-
-generated: "2021-05-26T14:59:11.656550034-04:00"
+    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/sandbox/itm-https.tgz
+    version: 0.1.0
+generated: "2023-05-08T14:06:23.131002+05:30"

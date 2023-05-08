@@ -8,7 +8,7 @@ image:
   repository: default-route-openshift-image-registry.apps.sandbox.cfa.devcloud.intel.com/devcloud-ri/mcss_covid19_solution
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
-  Version: "1.0"
+  Version: "2022.3"
 
 imagePullSecrets: []
 nameOverride: ""
