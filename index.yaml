@@ -1,5 +1,16 @@
 apiVersion: v1
 entries:
+  social-distancing:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-03T12:12:42.163048109Z"
+    description: A Helm chart for Kubernetes
+    digest: 47c41e462cb757fd6d6ec36491e8add795c1491b47e40ca9a7ae480a4d63198e
+    name: social-distancing
+    type: application
+    urls:
+    - social-distancing.tgz
+    version: 0.1.0
   social-distancing-retail:
   - apiVersion: v2
     appVersion: 1.16.0
