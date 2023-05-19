@@ -1,142 +1,9 @@
 apiVersion: v1
 entries:
-  devcloudhelmtest-oct-3:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-05-12T13:16:19.5633431+05:30"
-    description: A Helm chart for Kubernetes
-    digest: 243920ea723db562627f3cacb1ba06211d113facc752d3af0a60762c45984fa7
-    name: devcloudhelmtest-oct-3
-    type: application
-    urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/r2qa/devcloudhelmtest-oct-3.tgz
-    version: 0.1.0
-  eii-deploy:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-05-12T13:16:19.5643432+05:30"
-    description: A Helm chart for Kubernetes
-    digest: b260bc4cf626baa685ec4ace20bae1352098349c85b4c7bd9f57e3bf14639333
-    name: eii-deploy
-    type: application
-    urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/r2qa/eii-deploy.tgz
-    version: 0.1.0
-  helm-qa-s20-1:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-05-12T13:16:19.5663442+05:30"
-    description: A Helm chart for Kubernetes
-    digest: ace90ddaa5f002c0d355a8b9da2f9013799d3057fe9d447a3716ea265c21bde9
-    name: helm-qa-s20-1
-    type: application
-    urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/r2qa/helm-qa-s20-1.tgz
-    version: 0.1.0
-  helmbuild1002:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-05-12T13:16:19.56835+05:30"
-    description: A Helm chart for Kubernetes
-    digest: 20df5c39e810aabfe23791a1333f5a1e904c32e0e304301e34023db1e90d181f
-    name: helmbuild1002
-    type: application
-    urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/r2qa/helmbuild1002.tgz
-    version: 0.1.0
-  helms20:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-05-12T13:16:19.5693452+05:30"
-    description: A Helm chart for Kubernetes
-    digest: 08a410e3fec67df877c67ef007239229f965d0b3c66752366dd63f2e57a29e19
-    name: helms20
-    type: application
-    urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/r2qa/helms20.tgz
-    version: 0.1.0
-  invalid:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-05-12T13:16:19.5703427+05:30"
-    description: A Helm chart for Kubernetes
-    digest: de722a46a8156c422fd83d5851a0f5cd1aaea00e1698bb014f453868e26a70cb
-    name: invalid
-    type: application
-    urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/r2qa/invalid.tgz
-    version: 0.1.0
-  multimodal-data-visualization:
-  - apiVersion: v2
-    appVersion: "3.0"
-    created: "2023-05-12T13:16:19.5933446+05:30"
-    description: A Helm chart for deploying multimodal data visualization service
-      in k8s
-    digest: ba4577017313c67c7da4b824a3c0371f6852174b6ec28beee9460187f7bbcdd9
-    name: multimodal-data-visualization
-    type: application
-    urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/r2qa/test2.tgz
-    version: "3.0"
-  - apiVersion: v2
-    appVersion: "3.0"
-    created: "2023-05-12T13:16:19.595344+05:30"
-    description: A Helm chart for deploying multimodal data visualization service
-      in k8s
-    digest: ba4577017313c67c7da4b824a3c0371f6852174b6ec28beee9460187f7bbcdd9
-    name: multimodal-data-visualization
-    type: application
-    urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/r2qa/test3.tgz
-    version: "3.0"
-  - apiVersion: v2
-    appVersion: "3.0"
-    created: "2023-05-12T13:16:19.596344+05:30"
-    description: A Helm chart for deploying multimodal data visualization service
-      in k8s
-    digest: ba4577017313c67c7da4b824a3c0371f6852174b6ec28beee9460187f7bbcdd9
-    name: multimodal-data-visualization
-    type: application
-    urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/r2qa/test4.tgz
-    version: "3.0"
-  s3-helm-2:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-05-12T13:16:19.5803471+05:30"
-    description: A Helm chart for Kubernetes
-    digest: 160c2c194ffbc4313aa51224ddd75382cd80673b06e318378f2e452fa22f9dc5
-    name: s3-helm-2
-    type: application
-    urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/r2qa/s3-helm-2.tgz
-    version: 0.1.0
-  sanityhelm17nov:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-05-12T13:16:19.5823459+05:30"
-    description: A Helm chart for Kubernetes
-    digest: 9e9351183363da6888eb9d6be6e4053b0854cceee3638af71e454e24f762aa58
-    name: sanityhelm17nov
-    type: application
-    urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/r2qa/sanityhelm17nov.tgz
-    version: 0.1.0
-  sddss:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-05-12T13:16:19.5843466+05:30"
-    description: A Helm chart for Kubernetes
-    digest: b78fcecf1ae1e8cf0d6fc9b33a50b34661c6c1ea1f1c2d6cb502713c8fbfd375
-    name: sddss
-    type: application
-    urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/r2qa/sddss.tgz
-    version: 0.1.0
   social-distancing-retail:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-05-12T13:16:19.5873448+05:30"
+    created: "2023-05-19T12:11:30.3840699+05:30"
     description: A Helm chart for Kubernetes
     digest: 73e7c3ef8def95fc212ee24b152b43c6bb9b9512a45680929610cf5407f31b76
     name: social-distancing-retail
@@ -144,65 +11,10 @@ entries:
     urls:
     - https://raw.githubusercontent.com/intel/DevCloudContent-helm/r2qa/social-distancing-retail.tgz
     version: 0.1.0
-  test:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-05-12T13:16:19.5913443+05:30"
-    description: A Helm chart for Kubernetes
-    digest: 898beb370218c8f8b23c3d0c6ff0c9b3a83bef563acbe8fe319af85fbb510a07
-    name: test
-    type: application
-    urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/r2qa/test.tgz
-    version: 0.1.0
-  test-devcloud-helm-16sep:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-05-12T13:16:19.5893445+05:30"
-    description: A Helm chart for Kubernetes
-    digest: 6a6b90f421ed9d59b3720a1f125ab757bd6fa289cec79e79aedc276a8cc3b18a
-    name: test-devcloud-helm-16sep
-    type: application
-    urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/r2qa/test-devcloud-helm-16sep.tgz
-    version: 0.1.0
-  testhelm:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-05-12T13:16:19.6023444+05:30"
-    description: A Helm chart for Kubernetes
-    digest: 58f1f5d4e417a6a0f6dfc78aea8429ed0bb6c95a230a9719dc30cece0eb93c5c
-    name: testhelm
-    type: application
-    urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/r2qa/testhelm.tgz
-    version: 0.1.0
-  testmoreinfo:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-05-12T13:16:19.603344+05:30"
-    description: A Helm chart for Kubernetes
-    digest: 314d0b990d714849cb04dc34acc9b2ff28fd96dd4b157567b9df4e22355e53fa
-    name: testmoreinfo
-    type: application
-    urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/r2qa/testmoreinfo.tgz
-    version: 0.1.0
-  testqa18hc:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-05-12T13:16:19.6053452+05:30"
-    description: A Helm chart for Kubernetes
-    digest: 738b083e2fd069256e0c215491c05089d5cc8328dab87f8e13d93291ce3e9b32
-    name: testqa18hc
-    type: application
-    urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/r2qa/testqa18hc.tgz
-    version: 0.1.0
   wireless-ready-itm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-05-12T13:16:19.5743695+05:30"
+    created: "2023-05-19T12:11:30.3816843+05:30"
     description: A Helm chart for Kubernetes
     digest: 02c689e05a547f85c9f665987ac11f7670fbfe4b0ab4f1c872e8c7ff4ee65e69
     name: wireless-ready-itm
@@ -210,4 +22,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/intel/DevCloudContent-helm/r2qa/itm-https.tgz
     version: 0.1.0
-generated: "2023-05-12T13:16:19.558343+05:30"
+generated: "2023-05-19T12:11:30.3791285+05:30"
