@@ -55,11 +55,11 @@ entries:
     version: 0.1.0
   warehouse-ri:
   - apiVersion: v1
-    created: "2023-04-11T15:10:20.658266396+05:30"
+    created: "2023-05-19T11:35:49.3215994+05:30"
     description: Showcases a solution that detects Pallet boxes in a warehouse. It
       allows users to run inference flow for multiple models and visualize the annotated
       output.
-    digest: 58e711a6d3cc2e12392b51ba98e80abe3bfc38bf3aa3dbddeac327b9fdf70610
+    digest: f5b3685aa3f2774e9b7dbb2091daa892b1760aa04851194cdc2f6cc37b5844ac
     keywords:
     - warehouse-ri
     name: warehouse-ri
@@ -77,4 +77,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/intel/DevCloudContent-helm/dev/itm-https.tgz
     version: 0.1.0
-generated: "2023-04-11T15:10:20.657963942+05:30"
+generated: "2023-05-19T11:35:49.32107023+05:30"
