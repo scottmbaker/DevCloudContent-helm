@@ -65,7 +65,7 @@ entries:
     name: warehouse-ri
     urls:
     - https://raw.githubusercontent.com/intel/DevCloudContent-helm/dev/warehouse-ri-v1.0.0.tgz
-    version: v1.0.0
+    version: v1.0.2
   wireless-ready-itm:
   - apiVersion: v2
     appVersion: 1.16.0
