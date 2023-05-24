@@ -59,12 +59,12 @@ entries:
     description: Showcases a solution that detects Pallet boxes in a warehouse. It
       allows users to run inference flow for multiple models and visualize the annotated
       output.
-    digest: f5b3685aa3f2774e9b7dbb2091daa892b1760aa04851194cdc2f6cc37b5844ac
+    digest: 86bd1457132eebe14be215a8fa598036e601821d28b73d10c201a6ae6ffb537c
     keywords:
     - warehouse-ri
     name: warehouse-ri
     urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/dev/warehouse-ri-v1.0.2.tgz
+    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/ikea-warehouse/warehouse-ri-v1.0.2.tgz
     version: v1.0.2
   wireless-ready-itm:
   - apiVersion: v2
