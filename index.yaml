@@ -1,36 +1,36 @@
 apiVersion: v1
 entries:
+  social-distancing:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-06-06T11:44:20.5500072+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 1c2523498e07d767a3626cdd2200ea403ef629fb1f54186d3b7ad6a369304a73
+    name: social-distancing
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/prc/social-distancing.tgz
+    version: 0.1.0
   social-distancing-retail:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-20T05:35:17.618266462Z"
+    created: "2023-06-06T11:44:20.5479053+05:30"
     description: A Helm chart for Kubernetes
-    digest: 12d0c3e91ecb5bb118615e2f029a7fbbe7efa757744849b45ff1b2f6dea3deb3
+    digest: d483d349ef155d4e645c4dcf7216c6c8c7b4c73a7a700fd720078d2c02212604
     name: social-distancing-retail
     type: application
     urls:
-    - social-distancing-retail.tgz
+    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/prc/social-distancing-retail.tgz
     version: 0.1.0
   wireless-ready-itm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-20T05:35:17.615592001Z"
+    created: "2023-06-06T11:44:20.5453297+05:30"
     description: A Helm chart for Kubernetes
-    digest: b31aaa1921208dd1051ffaf5c9757dfeae8b964d510805cb091f9e80be8ff334
+    digest: c26634881ef57df7a53b03f9566527e4a2bcd4fcfdc40d087454dea6c2023d6e
     name: wireless-ready-itm
     type: application
     urls:
-    - itm-https.tgz
+    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/prc/itm-https.tgz
     version: 0.1.0
-  social-distancing:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2022-09-20T05:35:17.618266462Z"
-    description: A Helm chart for Kubernetes
-    digest: 12d0c3e91ecb5bb118615e2f029a7fbbe7efa757744849b45ff1b2f6dea3deb3
-    name: social-distancing
-    type: application
-    urls:
-      - social-distancing.tgz
-    version: 0.1.0
-generated: "2022-09-20T05:35:17.613234582Z"
+generated: "2023-06-06T11:44:20.5432581+05:30"
