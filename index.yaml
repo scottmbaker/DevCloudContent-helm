@@ -3,7 +3,7 @@ entries:
   sca-evam-helm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-23T11:22:53.2881503+05:30"
+    created: "2023-08-30T11:38:07.710817971+05:30"
     description: A Helm chart for Kubernetes
     digest: 69843b936a8b1d887f907c15196ddf69ea723a0e99cb322afacef46882d5c213
     name: sca-evam-helm
@@ -14,7 +14,7 @@ entries:
   social-distancing-retail:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-23T11:22:53.2911443+05:30"
+    created: "2023-08-30T11:38:07.711805256+05:30"
     description: A Helm chart for Kubernetes
     digest: 12d0c3e91ecb5bb118615e2f029a7fbbe7efa757744849b45ff1b2f6dea3deb3
     name: social-distancing-retail
@@ -25,7 +25,7 @@ entries:
   sra-evam-helm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-23T11:22:53.8224091+05:30"
+    created: "2023-08-30T11:38:08.005679474+05:30"
     description: A Helm chart for Kubernetes
     digest: 960fffd9b37c2952d62ad72d9138688dddbc4d51039c626d9ca396af582dce35
     name: sra-evam-helm
@@ -36,7 +36,7 @@ entries:
   sra-helm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-23T11:22:53.8253475+05:30"
+    created: "2023-08-30T11:38:08.006975453+05:30"
     description: A Helm chart for Kubernetes
     digest: d76e7cd663060cbea5236786818ecf89d0a9facb01bb0260b5f5b59c96ff92f9
     name: sra-helm
@@ -47,18 +47,18 @@ entries:
   stable-diffusion:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-23T11:22:53.8263492+05:30"
+    created: "2023-08-30T11:38:08.00740058+05:30"
     description: A Helm chart for Kubernetes
-    digest: 62d45af77d275203dab6ea5c96e919341c5b14232098bfc4ff68cfb6f18226f5
+    digest: 5e0a55f55797ecc5c21d609e73f14cd77bf1fbbd6961475eeca9d731c20defdd
     name: stable-diffusion
     type: application
     urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/springboard-staging/stable-diffusion-mount.tgz
+    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/springboard-staging/stable-diffusion.tgz
     version: 0.1.0
   wireless-ready-itm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-23T11:22:53.2866277+05:30"
+    created: "2023-08-30T11:38:07.710219121+05:30"
     description: A Helm chart for Kubernetes
     digest: b31aaa1921208dd1051ffaf5c9757dfeae8b964d510805cb091f9e80be8ff334
     name: wireless-ready-itm
@@ -66,4 +66,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/intel/DevCloudContent-helm/springboard-staging/itm-https.tgz
     version: 0.1.0
-generated: "2023-08-23T11:22:53.2836282+05:30"
+generated: "2023-08-30T11:38:07.709213769+05:30"
