@@ -1,9 +1,21 @@
 apiVersion: v1
 entries:
+  evam:
+  - apiVersion: v2
+    appVersion: 1.1.0
+    created: "2023-09-04T18:34:37.279748229+05:30"
+    description: A Helm chart for deploying Edge Video Analytics Microservice and
+      Mosquitto Server in k8s
+    digest: c93511e81713cc86f1a92a5585a27299e64e124394be69a8389313efe28813b8
+    name: evam
+    type: application
+    urls:
+    - evam-5.44.2.tgz
+    version: 5.44.2
   social-distancing:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-29T23:24:50.570543195+05:30"
+    created: "2023-09-04T18:34:37.296413222+05:30"
     description: A Helm chart for Kubernetes
     digest: 47c41e462cb757fd6d6ec36491e8add795c1491b47e40ca9a7ae480a4d63198e
     name: social-distancing
@@ -14,7 +26,7 @@ entries:
   social-distancing-retail:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-29T23:24:50.568149194+05:30"
+    created: "2023-09-04T18:34:37.28523756+05:30"
     description: A Helm chart for Kubernetes
     digest: 73e7c3ef8def95fc212ee24b152b43c6bb9b9512a45680929610cf5407f31b76
     name: social-distancing-retail
@@ -25,7 +37,7 @@ entries:
   wireless-ready-itm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-29T23:24:50.565775284+05:30"
+    created: "2023-09-04T18:34:37.281223403+05:30"
     description: A Helm chart for Kubernetes
     digest: 02c689e05a547f85c9f665987ac11f7670fbfe4b0ab4f1c872e8c7ff4ee65e69
     name: wireless-ready-itm
@@ -33,4 +45,4 @@ entries:
     urls:
     - itm-https.tgz
     version: 0.1.0
-generated: "2023-08-29T23:24:50.563884989+05:30"
+generated: "2023-09-04T18:34:37.27905455+05:30"
