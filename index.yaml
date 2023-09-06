@@ -3,7 +3,7 @@ entries:
   evam:
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2023-09-06T16:11:52.935560121+05:30"
+    created: "2023-09-06T16:35:10.987027211+05:30"
     description: A Helm chart for deploying Edge Video Analytics Microservice and
       Mosquitto Server in k8s
     digest: c93511e81713cc86f1a92a5585a27299e64e124394be69a8389313efe28813b8
@@ -15,7 +15,7 @@ entries:
   helmlppromotetest1:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-06T16:11:52.936086371+05:30"
+    created: "2023-09-06T16:35:10.98762663+05:30"
     description: A Helm chart for Kubernetes
     digest: e0a9ba92365cc70a506c49b5a747775a75f52412e987bd447f132c1f3e49cd6c
     name: helmlppromotetest1
@@ -26,7 +26,7 @@ entries:
   social-distancing:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-06T16:11:52.952098507+05:30"
+    created: "2023-09-06T16:35:10.999530128+05:30"
     description: A Helm chart for Kubernetes
     digest: 47c41e462cb757fd6d6ec36491e8add795c1491b47e40ca9a7ae480a4d63198e
     name: social-distancing
@@ -37,7 +37,7 @@ entries:
   social-distancing-retail:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-06T16:11:52.944195342+05:30"
+    created: "2023-09-06T16:35:10.990350843+05:30"
     description: A Helm chart for Kubernetes
     digest: 73e7c3ef8def95fc212ee24b152b43c6bb9b9512a45680929610cf5407f31b76
     name: social-distancing-retail
@@ -48,7 +48,7 @@ entries:
   test-helm-lp:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-06T16:11:52.952723136+05:30"
+    created: "2023-09-06T16:35:11.000420963+05:30"
     description: A Helm chart for Kubernetes
     digest: e90499cb1909ebea296efcd0763e4c971468bcb8ea2ceb108204f0531a89bc30
     name: test-helm-lp
@@ -56,10 +56,21 @@ entries:
     urls:
     - test-helm-lp-37.0.0.tgz
     version: 37.0.0
+  test-lp-helm:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-09-06T16:35:11.001269763+05:30"
+    description: A Helm chart for Kubernetes
+    digest: c75b7d98a5aa72e794e5b40ef481a6165dac011fdbc09dfe33da07a93be1c605
+    name: test-lp-helm
+    type: application
+    urls:
+    - test-lp-helm-41.0.0.tgz
+    version: 41.0.0
   wireless-ready-itm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-06T16:11:52.937244385+05:30"
+    created: "2023-09-06T16:35:10.98880699+05:30"
     description: A Helm chart for Kubernetes
     digest: 02c689e05a547f85c9f665987ac11f7670fbfe4b0ab4f1c872e8c7ff4ee65e69
     name: wireless-ready-itm
@@ -67,4 +78,4 @@ entries:
     urls:
     - itm-https.tgz
     version: 0.1.0
-generated: "2023-09-06T16:11:52.935026224+05:30"
+generated: "2023-09-06T16:35:10.986457222+05:30"
