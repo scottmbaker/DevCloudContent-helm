@@ -55,17 +55,17 @@ entries:
     version: 0.1.0
   warehouse-ri:
   - apiVersion: v1
-    created: "2023-09-13T12:10:41.648081604-07:00"
+    created: "2023-09-13T12:15:03.701166575-07:00"
     description: Showcases a solution that detects Pallet boxes in a warehouse. It
       allows users to run inference flow for multiple models and visualize the annotated
       output.
-    digest: 75ac7cdadfbec8db59e648f4537ac4cef18de292c2acd4b6d359f31d5c259160
+    digest: eb529e03575bbb2daccdaef7f192e825735a7ffc3f274df21a2ba405db8d3385
     keywords:
     - warehouse-ri
     name: warehouse-ri
     urls:
-    - warehouse-ri-v1.1.2.tgz
-    version: v1.1.2
+    - warehouse-ri-v1.1.3.tgz
+    version: v1.1.3
   wireless-ready-itm:
   - apiVersion: v2
     appVersion: 1.16.0
